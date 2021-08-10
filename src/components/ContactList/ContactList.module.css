@@ -1,0 +1,20 @@
+.contact_list {
+  padding-top: 10px;
+  width: 500px;
+}
+
+.сontact_list_item {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.contact_list_btn {
+  margin-left: 10px;
+  font-size: 15px;
+}
+
+.contact_list_btn:hover {
+  background-color: blueviolet;
+  color: white;
+}

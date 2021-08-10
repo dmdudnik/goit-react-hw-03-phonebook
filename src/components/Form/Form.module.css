@@ -1,0 +1,33 @@
+.form {
+  display: block;
+  width: 400px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%),
+    0 2px 1px -1px rgb(0 0 0 / 12%);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.form_label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.form_input {
+  display: block;
+  margin-top: 3px;
+  font-size: 15px;
+}
+
+.form_btn {
+  display: block;
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+}
+
+.form_btn:hover {
+  background-color: blueviolet;
+  color: white;
+}

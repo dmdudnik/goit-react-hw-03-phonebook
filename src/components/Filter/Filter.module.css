@@ -1,0 +1,9 @@
+.find_label {
+  font-size: 20px;
+}
+
+.find_input {
+  display: block;
+  margin-top: 10px;
+  font-size: 15px;
+}
